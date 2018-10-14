@@ -1,5 +1,5 @@
-# COMP464-Final-Project
-High Performance Computing RSA Algorithm
+# High Performance RSA Algorithm using OpenMP and MPI
+
 
 # Compiling 
 
