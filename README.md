@@ -1,7 +1,7 @@
 # COMP464-Final-Project
 High Performance Computing RSA Algorithm
 
-# Compiling Instructions
+# Compiling 
 
 Compiling 1st version (not parallel):
 
