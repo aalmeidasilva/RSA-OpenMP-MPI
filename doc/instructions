@@ -1,0 +1,6 @@
+- Compiling
+Script do, inside folder src
+
+- Running
+OMP_NUM_THREADS=8 ibrun tacc_affinity ./rsa <encrypt/decrypt> <input_file>
+* Make sure you're on a dedicated node with all processors you need
